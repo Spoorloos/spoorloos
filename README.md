@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Spoorloos</h1>
 <h3 align="center">A college student from The Netherlands</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spoorloos&label=Profile%20views&color=0e75b6&style=flat" alt="spoorloos" /> </p>
-
 - 🌱 I’m currently learning **Javascript, HTML/CSS, Svelte and Rust**
 
 - 👨‍💻 All of my projects are available at [https://36791.hosts2.ma-cloud.nl/](https://36791.hosts2.ma-cloud.nl/)
@@ -77,8 +75,7 @@
     </a>
 </p>
 
-<br />
-
+<h2 align"center">Stats</h2>
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spoorloos&theme=github_dark" alt="spoorloos" />
 </p>
