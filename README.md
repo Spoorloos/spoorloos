@@ -77,4 +77,6 @@
     </a>
 </p>
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spoorloos" alt="spoorloos" />
+<p>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spoorloos&theme=github_dark" alt="spoorloos" />
+</p>
