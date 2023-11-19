@@ -6,34 +6,6 @@
 
 - 📫 How to reach me **@mickeydev on discord**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.youtube.com/@SpoorloosDev" target="_blank">
-        <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="https://www.youtube.com/channel/ucvknn42rvdtrd2tm33lgimq"
-            height="30"
-            width="40" />
-    </a>
-    <a href="https://www.leetcode.com/spoorloos" target="_blank">
-        <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="spoorloos"
-            height="30"
-            width="40" />
-    </a>
-    <a href="https://discord.com/users/953720095811719208" target="_blank">
-        <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-            alt="https://discord.com/users/953720095811719208"
-            height="30"
-            width="40" />
-    </a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -71,6 +43,34 @@
     </a>
     <a href="https://luau-lang.org/" target="_black" rel="noreferrer">
         <img src="https://luau-lang.org/assets/images/luau-88.png" alt="luau" width="40" height="40" />
+    </a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://www.youtube.com/@SpoorloosDev" target="_blank">
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+            alt="youtube channel"
+            height="30"
+            width="40" />
+    </a>
+    <a href="https://www.leetcode.com/spoorloos" target="_blank">
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+            alt="spoorloos"
+            height="30"
+            width="40" />
+    </a>
+    <a href="https://discord.com/users/953720095811719208" target="_blank">
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+            alt="discord profile"
+            height="30"
+            width="40" />
     </a>
 </p>
 
