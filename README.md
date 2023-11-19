@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://36791.hosts2.ma-cloud.nl/](https://36791.hosts2.ma-cloud.nl/)
 
-- 💬 Ask me about **Lua and C++**
-
 - 📫 How to reach me **@mickeydev on discord**
 
 <h3 align="left">Connect with me:</h3>
