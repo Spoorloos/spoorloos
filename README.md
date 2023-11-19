@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.youtube.com/@SpoorloosDev" target="blank">
+    <a href="https://www.youtube.com/@SpoorloosDev" target="_blank">
         <img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
@@ -21,21 +21,21 @@
             height="30"
             width="40" />
     </a>
-    <a href="https://www.leetcode.com/spoorloos" target="blank">
+    <a href="https://www.leetcode.com/spoorloos" target="_blank">
         <img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-          alt="spoorloos"
-          height="30"
-          width="40" />
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+            alt="spoorloos"
+            height="30"
+            width="40" />
     </a>
-    <a href="https://discord.com/users/953720095811719208" target="blank">
+    <a href="https://discord.com/users/953720095811719208" target="_blank">
         <img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-          alt="https://discord.com/users/953720095811719208"
-          height="30"
-          width="40" />
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+            alt="https://discord.com/users/953720095811719208"
+            height="30"
+            width="40" />
     </a>
 </p>
 
@@ -74,7 +74,7 @@
     <a href="https://www.lua.org/" target="_black" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="40" height="40" />
     </a>
-    <a href="https://www.luau-lang.org/" target="_black" rel="noreferrer">
+    <a href="https://luau-lang.org/" target="_black" rel="noreferrer">
         <img src="https://luau-lang.org/assets/images/luau-88.png" alt="luau" width="40" height="40" />
     </a>
 </p>
