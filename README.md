@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Lua and C++**
 
-- 📫 How to reach me **You can reach me on discord at @mickeydev**
+- 📫 How to reach me **@mickeydev on discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
