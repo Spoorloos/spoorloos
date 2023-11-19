@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Spoorloos</h1>
-<h3 align="center">A college student from The Netherlands</h3>
+<h1>Hi 👋, I'm Spoorloos</h1>
 
 - 🌱 I’m currently learning **Javascript, HTML/CSS, Svelte and Rust**
 
@@ -75,5 +74,5 @@
     </a>
 </p>
 
-<h3>Stats</h3>
+<h3>Stats:</h3>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spoorloos&theme=github_dark" alt="spoorloos" />
