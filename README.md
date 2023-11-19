@@ -76,3 +76,5 @@
         <img src="https://luau-lang.org/assets/images/luau-88.png" alt="luau" width="40" height="40" />
     </a>
 </p>
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spoorloos" alt="spoorloos" />
