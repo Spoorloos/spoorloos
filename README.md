@@ -46,33 +46,5 @@
     </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.youtube.com/@SpoorloosDev" target="_blank">
-        <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="youtube channel"
-            height="30"
-            width="40" />
-    </a>
-    <a href="https://www.leetcode.com/spoorloos" target="_blank">
-        <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="spoorloos"
-            height="30"
-            width="40" />
-    </a>
-    <a href="https://discord.com/users/953720095811719208" target="_blank">
-        <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-            alt="discord profile"
-            height="30"
-            width="40" />
-    </a>
-</p>
-
 <h3>Stats:</h3>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spoorloos&theme=github_dark" alt="spoorloos" />
