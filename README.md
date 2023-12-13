@@ -44,6 +44,9 @@
     <a href="https://luau-lang.org/" target="_black" rel="noreferrer">
         <img src="https://luau-lang.org/assets/images/luau-88.png" alt="luau" width="40" height="40" />
     </a>
+    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+    </a>
 </p>
 
 <h3>Stats:</h3>
