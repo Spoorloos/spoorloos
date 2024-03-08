@@ -42,7 +42,7 @@
         <img src="https://luau-lang.org/assets/images/luau-88.png" alt="luau" width="40" height="40" />
     </a>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-        <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Rustacean-orig-noshadow.svg" alt="rust" width="40" height="40"/>
     </a>
 </p>
 
