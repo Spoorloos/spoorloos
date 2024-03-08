@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Spoorloos</h1>
 
-- 🌱 I’m currently learning **Javascript, HTML/CSS, Svelte and Rust**
+- 🌱 I’m currently learning **HTML/CSS, Svelte and Rust**
 
 - 👨‍💻 All of my projects are available at [https://36791.hosts2.ma-cloud.nl/](https://36791.hosts2.ma-cloud.nl/)
 
