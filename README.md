@@ -2,9 +2,7 @@
 
 - 🌱 I’m currently learning **HTML/CSS, Svelte and Rust**
 
-- 👨‍💻 All of my projects are available at [https://36791.hosts2.ma-cloud.nl/](https://36791.hosts2.ma-cloud.nl/)
-
-- 📫 How to reach me **@mickeydev on discord**
+- 📫 You can reach me at **@mickeydev on discord**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
