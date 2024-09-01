@@ -52,5 +52,3 @@
 ###
 
 <p align="left">Hi! I'm a 17-year-old software developer from the Netherlands, currently studying web development at a college in Amsterdam. In my free time, I enjoy game hacking as a hobby. I'm passionate about programming and always excited to learn new things. (I love Radiohead btw)</p>
-
-###
