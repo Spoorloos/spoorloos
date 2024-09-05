@@ -7,6 +7,20 @@
 ###
 
 <div align="center">
+    <a href="https://www.youtube.com/@SpoorloosDev">
+        <img src="imgs/youtube.svg" height="35" alt="youtube">
+    </a>
+    <a href="https://discord.com/users/953720095811719208">
+        <img src="imgs/discord.svg" height="35" alt="discord">
+    </a>
+    <a href="https://t.me/notspoorloos">
+        <img src="imgs/telegram.svg" height="35" alt="telegram">
+    </a>
+</div>
+
+###
+
+<div align="center">
     <a href="https://www.w3schools.com/cpp/">
         <img src="imgs/cplusplus.svg" height="30" alt="cplusplus">
     </a>
@@ -53,20 +67,6 @@
     <img width="12">
     <a href="https://code.visualstudio.com/">
         <img src="imgs/vscode.svg" height="30" alt="vscode">
-    </a>
-</div>
-
-###
-
-<div align="center">
-    <a href="https://www.youtube.com/@SpoorloosDev">
-        <img src="imgs/youtube.svg" height="35" alt="youtube">
-    </a>
-    <a href="https://discord.com/users/953720095811719208">
-        <img src="imgs/discord.svg" height="35" alt="discord">
-    </a>
-    <a href="https://t.me/notspoorloos">
-        <img src="imgs/telegram.svg" height="35" alt="telegram">
     </a>
 </div>
 
