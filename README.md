@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a 17-year-old software developer from the Netherlands, currently studying web development at a college in Amsterdam. In my free time, I enjoy game hacking as a hobby. I'm passionate about programming and always excited to learn new things.</p>
+<p align="left">I'm a 17-year-old software developer from the Netherlands, currently studying web development at a college in Amsterdam. In my free time, I enjoy web development, game hacking and watching videos on random programming tricks as a hobby. I'm passionate about programming and always excited to learn new things.</p>
 
 ###
 
