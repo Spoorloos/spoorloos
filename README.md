@@ -1,7 +1,4 @@
-<div align="center">
-    <h1>Hi 👋 My name is Mickey!</h1>
-    <img src="https://komarev.com/ghpvc/?username=Spoorloos&style=for-the-badge" alt="profile view counter">
-</div>
+<h1 align="center">Hi 👋 My name is Mickey! <img src="https://komarev.com/ghpvc/?username=Spoorloos&style=for-the-badge" alt="profile view counter"></h1>
 
 ###
 
