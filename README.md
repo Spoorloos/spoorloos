@@ -2,11 +2,7 @@
 
 ###
 
-<div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Spoorloos&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  /> -->
-  <img src="https://streak-stats.demolab.com?user=Spoorloos&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spoorloos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
+<p align="left">I'm a 17-year-old software developer from the Netherlands, currently studying web development at a college in Amsterdam. In my free time, I enjoy game hacking as a hobby. I'm passionate about programming and always excited to learn new things.</p>
 
 ###
 
@@ -52,4 +48,8 @@
 
 ###
 
-<p align="left">I'm a 17-year-old software developer from the Netherlands, currently studying web development at a college in Amsterdam. In my free time, I enjoy game hacking as a hobby. I'm passionate about programming and always excited to learn new things.</p>
+<div align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Spoorloos&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  /> -->
+  <img src="https://streak-stats.demolab.com?user=Spoorloos&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spoorloos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+</div>
