@@ -80,5 +80,5 @@
 ###
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Spoorloos" alt="profile view counter">
+    <img src="https://komarev.com/ghpvc/?username=Spoorloos&style=for-the-badge" alt="profile view counter">
 </div>
