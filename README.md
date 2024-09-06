@@ -23,51 +23,39 @@
 <div align="center">
     <a href="https://www.typescriptlang.org/">
         <img src="imgs/typescript.svg" height="30" alt="typescript">
-        <img width="12">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="imgs/javascript.svg" height="30" alt="javascript">
-        <img width="12">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img src="imgs/html5.svg" height="30" alt="html5">
-        <img width="12">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img src="imgs/css3.svg" height="30" alt="css3">
-        <img width="12">
     </a>
     <a href="https://react.dev">
         <img src="imgs/react.svg" height="30" alt="react">
-        <img width="12">
     </a>
     <a href="https://svelte.dev/">
         <img src="imgs/svelte.svg" height="30" alt="svelte">
-        <img width="12">
     </a>
     <a href="https://www.php.net/">
         <img src="imgs/php.svg" height="30" alt="php">
-        <img width="12">
     </a>
     <a href="https://www.w3schools.com/cpp/">
         <img src="imgs/cplusplus.svg" height="30" alt="cplusplus">
-        <img width="12">
     </a>
     <a href="https://www.w3schools.com/cs/">
         <img src="imgs/csharp.svg" height="30" alt="csharp">
-        <img width="12">
     </a>
     <a href="https://luau.org/">
         <img src="imgs/luau.svg" height="30" alt="luau">
-        <img width="12">
     </a>
     <a href="https://git-scm.com/">
         <img src="imgs/git.svg" height="30" alt="git">
-        <img width="12">
     </a>
     <a href="https://www.mozilla.org/en-US/firefox/">
         <img src="imgs/firefox.svg" height="30" alt="firefox">
-        <img width="12">
     </a>
     <a href="https://code.visualstudio.com/">
         <img src="imgs/vscode.svg" height="30" alt="vscode">
