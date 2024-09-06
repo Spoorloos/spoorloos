@@ -49,20 +49,16 @@
         <img src="imgs/php.svg" height="30" alt="php">
     </a>
     <img width="12">
-    <a href="https://luau.org/">
-        <img src="imgs/luau.svg" height="30" alt="luau">
-    </a>
-    <img width="12">
-    <a href="https://www.w3schools.com/c/">
-        <img src="imgs/c.svg" height="30" alt="c">
-    </a>
-    <img width="12">
     <a href="https://www.w3schools.com/cpp/">
         <img src="imgs/cplusplus.svg" height="30" alt="cplusplus">
     </a>
     <img width="12">
     <a href="https://www.w3schools.com/cs/">
         <img src="imgs/csharp.svg" height="30" alt="csharp">
+    </a>
+    <img width="12">
+    <a href="https://luau.org/">
+        <img src="imgs/luau.svg" height="30" alt="luau">
     </a>
     <img width="12">
     <a href="https://git-scm.com/">
