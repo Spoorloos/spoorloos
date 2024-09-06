@@ -21,16 +21,12 @@
 ###
 
 <div align="center">
-    <a href="https://www.w3schools.com/cpp/">
-        <img src="imgs/cplusplus.svg" height="30" alt="cplusplus">
+    <a href="https://www.typescriptlang.org/">
+        <img src="imgs/typescript.svg" height="30" alt="typescript">
     </a>
     <img width="12">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="imgs/javascript.svg" height="30" alt="javascript">
-    </a>
-    <img width="12">
-    <a href="https://www.typescriptlang.org/">
-        <img src="imgs/typescript.svg" height="30" alt="typescript">
     </a>
     <img width="12">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -49,12 +45,24 @@
         <img src="imgs/svelte.svg" height="30" alt="svelte">
     </a>
     <img width="12">
+    <a href="https://www.php.net/">
+        <img src="imgs/php.svg" height="30" alt="php">
+    </a>
+    <img width="12">
     <a href="https://luau.org/">
         <img src="imgs/luau.svg" height="30" alt="luau">
     </a>
     <img width="12">
-    <a href="https://www.php.net/">
-        <img src="imgs/php.svg" height="30" alt="php">
+    <a href="https://www.w3schools.com/c/">
+        <img src="imgs/c.svg" height="30" alt="c">
+    </a>
+    <img width="12">
+    <a href="https://www.w3schools.com/cpp/">
+        <img src="imgs/cplusplus.svg" height="30" alt="cplusplus">
+    </a>
+    <img width="12">
+    <a href="https://www.w3schools.com/cs/">
+        <img src="imgs/csharp.svg" height="30" alt="csharp">
     </a>
     <img width="12">
     <a href="https://git-scm.com/">
