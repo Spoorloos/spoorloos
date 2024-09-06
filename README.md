@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header" width="100%">
 
 <h1 align="center">Hi 👋 My name is Mickey!&nbsp;&nbsp;&nbsp;<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Spoorloos" alt="profile view counter"></a></h1>
 
@@ -39,4 +39,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spoorloos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph">
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer" width="100%">
