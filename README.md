@@ -33,8 +33,6 @@
 ###
 
 <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=Spoorloos&bg_color=FFFFFF0A&show_icons=true&hide_border=true#gh-dark-mode-only)
-    ![](https://github-readme-stats.vercel.app/api?username=Spoorloos&bg_color=0000000A&show_icons=true&hide_border=true#gh-light-mode-only)
-    ![](https://github-readme-stats.vercel.app/api/top-langs?username=Spoorloos&bg_color=FFFFFF0A&layout=compact&langs_count=6&hide_border=true#gh-dark-mode-only)
-    ![](https://github-readme-stats.vercel.app/api/top-langs?username=Spoorloos&bg_color=0000000A&layout=compact&langs_count=6&hide_border=true#gh-light-mode-only)
+    [![](https://github-readme-stats.vercel.app/api?username=Spoorloos&bg_color=FFFFFF0A&show_icons=true&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+    [![](https://github-readme-stats.vercel.app/api?username=Spoorloos&bg_color=0000000A&show_icons=true&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 </div>
