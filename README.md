@@ -22,51 +22,55 @@
 
 <div align="center">
     <a href="https://www.typescriptlang.org/">
-        <img src="imgs/typescript.svg" height="30" alt="typescript">
+        <img src="imgs/typescript.svg" height="35" alt="typescript">
     </a>
     <img width="12">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="imgs/javascript.svg" height="30" alt="javascript">
+        <img src="imgs/javascript.svg" height="35" alt="javascript">
     </a>
     <img width="12">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="imgs/html5.svg" height="30" alt="html5">
+        <img src="imgs/html5.svg" height="35" alt="html5">
     </a>
     <img width="12">
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="imgs/css3.svg" height="30" alt="css3">
+        <img src="imgs/css3.svg" height="35" alt="css3">
     </a>
     <img width="12">
     <a href="https://react.dev">
-        <img src="imgs/react.svg" height="30" alt="react">
+        <img src="imgs/react.svg" height="35" alt="react">
     </a>
     <img width="12">
     <a href="https://svelte.dev/">
-        <img src="imgs/svelte.svg" height="30" alt="svelte">
+        <img src="imgs/svelte.svg" height="35" alt="svelte">
     </a>
     <img width="12">
     <a href="https://www.php.net/">
-        <img src="imgs/php.svg" height="30" alt="php">
+        <img src="imgs/php.svg" height="35" alt="php">
+    </a>
+    <img width="12">
+    <a href="https://luau.org/">
+        <img src="imgs/luau.svg" height="35" alt="luau">
     </a>
     <img width="12">
     <a href="https://www.w3schools.com/cpp/">
-        <img src="imgs/cplusplus.svg" height="30" alt="cplusplus">
+        <img src="imgs/cplusplus.svg" height="35" alt="cplusplus">
     </a>
     <img width="12">
     <a href="https://www.w3schools.com/cs/">
-        <img src="imgs/csharp.svg" height="30" alt="csharp">
+        <img src="imgs/csharp.svg" height="35" alt="csharp">
     </a>
     <img width="12">
     <a href="https://git-scm.com/">
-        <img src="imgs/git.svg" height="30" alt="git">
+        <img src="imgs/git.svg" height="35" alt="git">
     </a>
     <img width="12">
     <a href="https://www.mozilla.org/en-US/firefox/">
-        <img src="imgs/firefox.svg" height="30" alt="firefox">
+        <img src="imgs/firefox.svg" height="35" alt="firefox">
     </a>
     <img width="12">
     <a href="https://code.visualstudio.com/">
-        <img src="imgs/vscode.svg" height="30" alt="vscode">
+        <img src="imgs/vscode.svg" height="35" alt="vscode">
     </a>
 </div>
 
