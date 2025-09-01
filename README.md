@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 My name is Mickey!&nbsp;&nbsp;&nbsp;<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Spoorloos" alt="profile view counter"></a></h1>
+<h1 align="center">Hi 👋 My name is Mick!&nbsp;&nbsp;&nbsp;<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Spoorloos" alt="profile view counter"></a></h1>
 
 ###
 
