@@ -29,9 +29,3 @@
     <a href="https://www.mozilla.org/en-US/firefox/"><img src="imgs/firefox.svg" height="35" alt="firefox"><img width="8"></a>
     <a href="https://code.visualstudio.com/"><img src="imgs/vscode.svg" height="35" alt="vscode"></a>
 </div>
-
-###
-
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Spoorloos&bg_color=90,FFFFFF0F,FFFFFF08&show_icons=true&hide_border=true" height="150" alt="stats"><img width="24"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spoorloos&bg_color=90,FFFFFF0F,FFFFFF08&layout=compact&langs_count=6&hide_border=true" height="150" alt="languages"></a>
-</div>
