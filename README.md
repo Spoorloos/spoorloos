@@ -28,3 +28,5 @@
     <a href="https://www.mozilla.org/en-US/firefox/"><img src="imgs/firefox.svg" height="35" alt="firefox"><img width="8"></a>
     <a href="https://code.visualstudio.com/"><img src="imgs/vscode.svg" height="35" alt="vscode"></a>
 </div>
+
+<p align="center">(i use arch btw)</p>
