@@ -20,7 +20,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="imgs/css3.svg" height="35" alt="css3"><img width="8"></a>
     <a href="https://react.dev"><img src="imgs/react.svg" height="35" alt="react"><img width="8"></a>
     <a href="https://svelte.dev/"><img src="imgs/svelte.svg" height="35" alt="svelte"><img width="8"></a>
-    <a href="https://www.php.net/"><img src="imgs/php.svg" height="35" alt="php"><img width="8"></a>
     <a href="https://luau.org/"><img src="imgs/luau.svg" height="35" alt="luau"><img width="8"></a>
     <a href="https://www.w3schools.com/cpp/"><img src="imgs/cplusplus.svg" height="35" alt="cplusplus"><img width="8"></a>
     <a href="https://www.w3schools.com/cs/"><img src="imgs/csharp.svg" height="35" alt="csharp"><img width="8"></a>
